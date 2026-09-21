@@ -1,0 +1,175 @@
+:root {
+  --dl-layout-size-large: 144px;
+  --dl-layout-size-small: 48px;
+  --dl-layout-space-unit: 16px;
+  --dl-layout-size-medium: 96px;
+  --dl-layout-size-xlarge: 192px;
+  --dl-layout-size-xsmall: 16px;
+  --dl-color-theme-accent1: #FFFFFF;
+  --dl-color-theme-accent2: #F5D1B0;
+  --dl-layout-radius-round: 50%;
+  --dl-layout-size-xxlarge: 288px;
+  --dl-color-theme-primary1: #BF4408;
+  --dl-color-theme-primary2: #E65103;
+  --dl-layout-size-maxwidth: 1400px;
+  --dl-layout-radius-radius2: 2px;
+  --dl-layout-radius-radius4: 4px;
+  --dl-layout-radius-radius8: 8px;
+  --dl-layout-space-halfunit: 8px;
+  --dl-layout-space-sixunits: 96px;
+  --dl-layout-space-twounits: 32px;
+  --dl-color-theme-secondary1: #FFFFFF;
+  --dl-color-theme-secondary2: #FBF1EB;
+  --dl-layout-space-fiveunits: 80px;
+  --dl-layout-space-fourunits: 64px;
+  --dl-color-default-neutral50: rgba(242, 242, 242, 1);
+  --dl-layout-space-threeunits: 48px;
+  --dl-color-default-neutral100: rgba(214, 214, 214, 1);
+  --dl-color-default-neutral200: rgba(194, 194, 195, 1);
+  --dl-color-default-neutral300: rgba(167, 167, 167, 1);
+  --dl-color-default-neutral400: rgba(149, 149, 150, 1);
+  --dl-color-default-neutral500: rgba(123, 123, 124, 1);
+  --dl-color-default-neutral600: rgba(112, 112, 113, 1);
+  --dl-color-default-neutral700: rgba(87, 87, 88, 1);
+  --dl-color-default-neutral800: rgba(68, 68, 68, 1);
+  --dl-color-default-neutral900: rgba(52, 52, 52, 1);
+  --dl-color-theme-neutral-dark: #191818;
+  --dl-layout-radius-cardradius: 8px;
+  --dl-color-theme-neutral-light: #FBFAF9;
+  --dl-layout-radius-imageradius: 8px;
+  --dl-layout-radius-inputradius: 24px;
+  --dl-layout-radius-buttonradius: 24px;
+  --dl-color-foundation_violet-dark: rgba(62, 36, 116, 1);
+  --dl-layout-space-oneandhalfunits: 24px;
+  --dl-color-foundation_violet-light: rgba(238, 234, 245, 1);
+  --dl-color-foundation_violet-darker: rgba(29, 17, 54, 1);
+  --dl-color-foundation_violet-normal: rgba(82, 48, 154, 1);
+  --dl-color-foundation_violet-darkhover: rgba(49, 29, 92, 1);
+  --dl-color-foundation_violet-darkactive: rgba(37, 22, 69, 1);
+  --dl-color-foundation_violet-lighthover: rgba(229, 224, 240, 1);
+  --dl-color-foundation_violet-lightactive: rgba(201, 191, 224, 1);
+  --dl-color-foundation_violet-normalhover: rgba(74, 43, 139, 1);
+  --dl-color-foundation_violet-normalactive: rgba(66, 38, 123, 1);
+}
+ 
+.teleport-show {
+  display: flex !important;
+  transform: none !important;
+}
+ 
+.MobileBodyL {
+  font-size: 14px;
+  font-style: normal;
+  font-family: Plus Jakarta Sans;
+  font-weight: 400px;
+  font-stretch: normal;
+  letter-spacing: 0em;
+}
+ 
+.MobileH7 {
+  font-size: 14px;
+  font-style: normal;
+  font-family: Plus Jakarta Sans;
+  font-weight: 400px;
+  font-stretch: normal;
+  letter-spacing: 0em;
+}
+ 
+.MobileBodyS {
+  font-size: 11px;
+  font-style: normal;
+  font-family: Plus Jakarta Sans;
+  font-weight: 400px;
+  font-stretch: normal;
+  letter-spacing: 0em;
+}
+ 
+.MobileH2 {
+  font-size: 25px;
+  font-style: normal;
+  font-family: Plus Jakarta Sans;
+  font-weight: 400px;
+  font-stretch: normal;
+  letter-spacing: 0em;
+}
+ 
+.MobileH1 {
+  font-size: 32px;
+  font-style: normal;
+  font-family: Plus Jakarta Sans;
+  font-weight: 400px;
+  font-stretch: normal;
+  letter-spacing: 0em;
+}
+ 
+.MobileBodyM-Bold {
+  font-size: 12px;
+  font-style: normal;
+  font-family: Plus Jakarta Sans;
+  font-weight: 700px;
+  font-stretch: normal;
+  letter-spacing: 0em;
+}
+ 
+.MobileBodyL-Bold {
+  font-size: 14px;
+  font-style: normal;
+  font-family: Plus Jakarta Sans;
+  font-weight: 700px;
+  font-stretch: normal;
+  letter-spacing: 0em;
+}
+ 
+.MobileBodyM {
+  font-size: 12px;
+  font-style: normal;
+  font-family: Plus Jakarta Sans;
+  font-weight: 400px;
+  font-stretch: normal;
+  letter-spacing: 0em;
+}
+ 
+.MobileH6 {
+  font-size: 16px;
+  font-style: normal;
+  font-family: Plus Jakarta Sans;
+  font-weight: 400px;
+  font-stretch: normal;
+  letter-spacing: 0.02em;
+}
+ 
+.Content {
+  font-size: 16px;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 1.15;
+  text-transform: none;
+  text-decoration: none;
+}
+ 
+.MobileH5 {
+  font-size: 18px;
+  font-style: normal;
+  font-family: Plus Jakarta Sans;
+  font-weight: 400px;
+  font-stretch: normal;
+  letter-spacing: 0em;
+}
+ 
+.MobileH3 {
+  font-size: 22px;
+  font-style: normal;
+  font-family: Inter;
+  font-weight: 400px;
+  font-stretch: normal;
+  letter-spacing: 0em;
+}
+ 
+.MobileH4 {
+  font-size: 20px;
+  font-style: normal;
+  font-family: Plus Jakarta Sans;
+  font-weight: 400px;
+  font-stretch: normal;
+  letter-spacing: 0em;
+}
